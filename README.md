@@ -1,20 +1,15 @@
-# DevOps Git Workflow – Task 4
+# DevOps Git Workflow Demo
 
-This project demonstrates version control best practices using Git.
+This project demonstrates Git best practices:
+- Feature branching (`feature/*`)
+- Dev branch integration
+- Pull request-based merging
+- Git ignore, tags, and markdown usage
 
-## Branching Strategy
-- `main`: Production-ready branch
-- `dev`: Integration branch
-- `feature/login`: Feature development branch
+## Branches
+- main
+- dev
+- feature/login
 
-## Workflow
-1. Feature created on `feature/*` branch.
-2. Merged into `dev` via Pull Request.
-3. After testing, merged into `main`.
-
-## Git Features Used
-- Branches
-- Pull Requests
-- Tags
-- Commit history
-- .gitignore
+## How to run
+No code to execute – this is a Git workflow demonstration only.
